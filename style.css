@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+body {
+    font-family: 'Sora', sans-serif;
+  }
+
+  /* .banner {
+    background: url(images/hero-vegetables.png);
+    background-repeat: no-repeat;
+    background-size: 800px 700px;
+    background-position: center bottom;
+    padding: 500px;
+  } */
+
+  .img-content{
+    width: 90%;
+    margin: 0 auto;
+  }
