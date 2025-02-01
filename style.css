@@ -34,12 +34,16 @@ body {
     animation: slideInLeft 0.8s ease-out forwards;
   }
 
-  @media (max-width: 576px) {
+  @media screen and (max-width: 576px) {
     .float-section{
       display: none;
     }
 
     footer{
       color:white;
+    }
+
+    nav{
+      border-bottom: 1px solid red;
     }
   }
